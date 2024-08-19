@@ -47,6 +47,7 @@ Security Engineer passionate about contributing to the open source community whi
 
 - Deploy adversary emulation tools, "Caldera" and "Atomic Red Team" in my home lab environment and simulate attacks. 
 - Automate the "Reconnaissance" and "Initial Access" step of the MITRE ATT&CK Framework by developing scripts using various python modules like paramiko, scapy, shodan, etc.
+- Create an OSCAL System Security Plan and validate it using the FedRAMP Automated Security Authorization Processing (ASAP) validator. Ultimate goal is to have security authorization packages (SAP, SAR, SSP, POAM) in an OSCAL format passing all validations checks within ASAP.
 - Develop a trust scoring algorithm using a linear regression model.
 
 ---
