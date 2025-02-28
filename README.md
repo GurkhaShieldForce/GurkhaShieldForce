@@ -33,6 +33,8 @@ Security Engineer passionate about contributing to the open source community whi
 
 [![Automate-The-Boring-Stuff](https://github-readme-stats.vercel.app/api/pin/?username=GurkhaShieldForce&repo=Automate-the-boring-stuff&theme=dark)](https://github.com/GurkhaShieldForce/Automate-the-boring-stuff)
 
+[![OP (OSCAL Powered) Bot](https://youtu.be/agSBSKo5bRo?si=YwZN8hXyyL38b0X-)
+
 | Project                                         | Description         |
 |-----------------------------------------------|----------------------------|
 | File Checksum Tracker          |A tool designed to monitor and verify file integrity using checksum algorithms. It helps in detecting unauthorized modifications to critical files, enhancing system security. |
