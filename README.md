@@ -33,7 +33,10 @@ Security Engineer passionate about contributing to the open source community whi
 
 [![Automate-The-Boring-Stuff](https://github-readme-stats.vercel.app/api/pin/?username=GurkhaShieldForce&repo=Automate-the-boring-stuff&theme=dark)](https://github.com/GurkhaShieldForce/Automate-the-boring-stuff)
 
-[![OP (OSCAL Powered) Bot](https://youtu.be/agSBSKo5bRo?si=YwZN8hXyyL38b0X-)
+[![OP (OSCAL Powered) Bot]<iframe width="560" height="315" src="https://www.youtube.com/embed/agSBSKo5bRo?si=izY5l4hcg6NCVyvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 | Project                                         | Description         |
 |-----------------------------------------------|----------------------------|
