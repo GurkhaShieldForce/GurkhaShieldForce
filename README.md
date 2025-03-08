@@ -43,7 +43,6 @@ Security Engineer passionate about contributing to the open source community whi
 | File Checksum Tracker          |A tool designed to monitor and verify file integrity using checksum algorithms. It helps in detecting unauthorized modifications to critical files, enhancing system security. |
 | Incident Response Plan App | An application that streamlines the process of creating, managing, and executing incident response plans. It provides a structured approach to handling security incidents efficiently.|
 | Automate the Boring Stuff         | A collection of Python scripts and projects inspired by the book "Automate the Boring Stuff with Python". This repository showcases various automation solutions for everyday tasks.|
-|OP (OSCAL Powered) Bot| https://www.youtube.com/watch?v=agSBSKo5bRo|
 
 </div>
 
