@@ -8,7 +8,7 @@
 | File Checksum Tracker          |A tool designed to monitor and verify file integrity using checksum algorithms. It helps in detecting unauthorized modifications to critical files, enhancing system security. |
 | Incident Response Plan App | An application that streamlines the process of creating, managing, and executing incident response plans. It provides a structured approach to handling security incidents efficiently.|
 | Automate the Boring Stuff         | A collection of Python scripts and projects inspired by the book "Automate the Boring Stuff with Python". This repository showcases various automation solutions for everyday tasks.|
-| Cookconnect  |A web application deployed via Vercel. https://cookconnect-six.vercel.app/ |
+| Cookconnect  |A web application deployed via Vercel utilized for security testing purposes only. https://cookconnect-six.vercel.app/ |
 </div>
 
 ---
