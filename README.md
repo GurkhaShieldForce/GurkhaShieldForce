@@ -9,6 +9,9 @@
 | Incident Response Plan App | An application that streamlines the process of creating, managing, and executing incident response plans. It provides a structured approach to handling security incidents efficiently.|
 | Automate the Boring Stuff         | A collection of Python scripts and projects inspired by the book "Automate the Boring Stuff with Python". This repository showcases various automation solutions for everyday tasks.|
 | Cookconnect  |A web application deployed via Vercel utilized for security testing purposes only. https://cookconnect-six.vercel.app/ |
+| VulnRisk  |A comprehensive vulnerability risk assessment platform with AI-driven insights, FedRAMP compliance automation, and advanced analytics. https://vulnrisk.animogovcon.com |
+| Oscalibur  |Platform for automating compliance documentation, focusing on System Security Plan (SSP) generation using OSCAL format. The platform integrates with variety of llm's to generate Infrastructure as Code (IaC) and control implementation statements. This is expected to be released Q4 2025. |
+
 </div>
 
 ---
