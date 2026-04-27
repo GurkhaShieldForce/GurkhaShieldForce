@@ -27,8 +27,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GurkhaShieldForce&label=Profile%20Views&color=brightgreen&style=flat)
-
 </div>
 
 #### <div align="center">"Set your sights high. The higher the better. Expect the most wonderful things to happen. Not in the future, but RIGHT NOW."</div>
