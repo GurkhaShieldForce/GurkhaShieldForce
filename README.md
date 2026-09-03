@@ -5,7 +5,7 @@
 
 | Project                                         | Description         |
 |-----------------------------------------------|----------------------------|
-| [VulnRisk](https://github.com/GurkhaShieldForce/Vulnrisk_Public) |A comprehensive vulnerability risk assessment platform with AI-driven insights, FedRAMP compliance automation, and advanced analytics. [Try for free!](https://vulnrisk.animogovcon.com)|
+| [VulnRisk](https://github.com/GurkhaShieldForce/Vulnrisk_Public) |A comprehensive vulnerability risk assessment platform with AI-driven insights, FedRAMP compliance automation, and advanced analytics. [Try for free!](https://vulnrisk.cybergurkhas.com)|
 | [Oscalibur](https://github.com/GurkhaShieldForce/nist-agent-ai)  |Platform for automating compliance documentation, focusing on System Security Plan (SSP) generation using OSCAL format. The platform integrates with variety of llm's to generate Infrastructure as Code (IaC) and control implementation statements. Still at the early phases of this project. |
 |[File Checksum Tracker](https://github.com/GurkhaShieldForce/File-Checksum-Tracker)|A tool designed to monitor and verify file integrity using checksum algorithms. It helps in detecting unauthorized modifications to critical files, enhancing system security. |
 | [Automate The Boring Stuff](https://github.com/GurkhaShieldForce/Automate-the-boring-stuff) | A collection of Python scripts and projects inspired by the book "Automate the Boring Stuff with Python". This repository showcases various automation solutions for everyday tasks.|
